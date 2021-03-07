@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name"> Departments of FENS</string>
+    <string name="computer_engineering">Computer Engineering</string>
+    <string name="desc_CE_engineering">The research fields of our academicians are analysis and design of algorithms, microprocessor systems, embedded systems, computer architecture, computer networks, database systems and database application development, computational geometry, parallel programming, software engineering and high-performance computing.</string>
+    <string name="civil_engineering">Civil Engineering</string>
+    <string name="desc_Civil_enginerring">Project Based Education constitutes the second difference. In addition to the aforementioned differences from the conventional approach, the active participation of sectoral presence in the classes is another significant difference. In this educational model, the courses are conducted in two categories as ‘Project-Oriented’ and ‘Project’ courses.</string>
+    <string name="electrical_engineering">Electrical - Electronics Engineering</string>
+    <string name="desc_electrical_engineering">The undergraduate program in Electrical - Electronics Engineering Department consists of four years, the freshman year mainly being devoted to basic sciences and humanities in order to provide a firm background for the future engineering education.</string>
+    <string name="energy_systems_engineering">Energy Systems Engineering</string>
+    <string name="desc_energy_systems_engineering">World needs professionals in the field of energy who are endowed with an international and top quality education and whose education and professional training capacitate them in finding solutions to  energy problems of Turkey and the world.</string>
+    <string name="industrial_engineering">Insdustrial Engineering</string>
+    <string name="desc_industrial_engineering"> As a department, we work hard to develop system thinking skills, analytical thinking, modelling and research abilities of our students to solve the problems they face. We provide required scientific, technical and social foundation that will allow them to excel in their career path and hence grow individuals who contribute to society.</string>
+    <string name="mechatronics_engineering">Mechatronics Engineering</string>
+    <string name="molecular_biology_genetics">Molecular Biology and Genetics</string>
+    <string name="desc_molecular_biology_genetics">Enhanced simulation techniques to investigate the functional dynamics of ion channel membrane proteins. Malfunctioning of ion channels is directly related to various neuro and neuromuscular diseases, such as epilepsy, Alzheimer’s, Parkinson’s and Huntington’s.</string>
+    <string name="desc_mechatronics_engineering">The topics in this approach are taught through projects based on examples from mechatronic engineering practices that are determined in cooperation with the industry. Starting from the second semester of the curriculum, students are directed to work on at least two projects per semester.</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+</resources>
